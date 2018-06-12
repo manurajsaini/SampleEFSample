@@ -1,0 +1,11 @@
+/Users/manoharsaini/Projects/SqlServerEFSample/SqlServerEFSample/bin/Debug/netcoreapp2.0/SqlServerEFSample.deps.json
+/Users/manoharsaini/Projects/SqlServerEFSample/SqlServerEFSample/bin/Debug/netcoreapp2.0/SqlServerEFSample.runtimeconfig.json
+/Users/manoharsaini/Projects/SqlServerEFSample/SqlServerEFSample/bin/Debug/netcoreapp2.0/SqlServerEFSample.runtimeconfig.dev.json
+/Users/manoharsaini/Projects/SqlServerEFSample/SqlServerEFSample/bin/Debug/netcoreapp2.0/SqlServerEFSample.dll
+/Users/manoharsaini/Projects/SqlServerEFSample/SqlServerEFSample/bin/Debug/netcoreapp2.0/SqlServerEFSample.pdb
+/Users/manoharsaini/Projects/SqlServerEFSample/SqlServerEFSample/obj/Debug/netcoreapp2.0/SqlServerEFSample.csprojResolveAssemblyReference.cache
+/Users/manoharsaini/Projects/SqlServerEFSample/SqlServerEFSample/obj/Debug/netcoreapp2.0/SqlServerEFSample.csproj.CoreCompileInputs.cache
+/Users/manoharsaini/Projects/SqlServerEFSample/SqlServerEFSample/obj/Debug/netcoreapp2.0/SqlServerEFSample.AssemblyInfoInputs.cache
+/Users/manoharsaini/Projects/SqlServerEFSample/SqlServerEFSample/obj/Debug/netcoreapp2.0/SqlServerEFSample.AssemblyInfo.cs
+/Users/manoharsaini/Projects/SqlServerEFSample/SqlServerEFSample/obj/Debug/netcoreapp2.0/SqlServerEFSample.dll
+/Users/manoharsaini/Projects/SqlServerEFSample/SqlServerEFSample/obj/Debug/netcoreapp2.0/SqlServerEFSample.pdb
